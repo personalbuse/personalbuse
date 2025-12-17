@@ -3,12 +3,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=personalbuse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=personalbuse&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Backend & Core**
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -29,7 +28,7 @@
 
 ---
 
-### 🔍 Profile Overview
+### Profile Overview
 
 - 🎓 **Education:** Systems Engineering Student.
 - ⚡ **Technical Focus:** Fullstack development, Hardware/Software optimization, and Modern Architecture.
@@ -38,12 +37,12 @@
 
 ---
 
-### 📩 Contact & Socials
+### Contact & Socials
 
 - **LinkedIn:** [sergio-david-burbano-mariño](https://www.linkedin.com/in/sergio-david-burbano-mari%C3%B1o-31576a200/)
 - **Email:** [sergioburbanom@gmail.com](mailto:sergioburbanom@gmail.com)
 
 ---
 <p align="center">
-  <i>"Iterating towards excellence, one commit at a time."</i>
+  <i>"Para mi mamita"</i>
 </p>
